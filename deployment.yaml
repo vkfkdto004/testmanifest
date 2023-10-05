@@ -18,7 +18,7 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: kimwooseop/test:3
+      - image: kimwooseop/test:latest
         name: nginx
         resources: {}
 status: {}
